@@ -22,21 +22,17 @@ Whether you are a **beginner** or looking to **revise your C knowledge**, this r
 
 ---
 
-## 📂 Repository Structure
-
-
-
-
-
-
----
-
 ## 🛠️ How to Run
 1. Clone the repo:  
    ```bash
    git clone https://github.com/your-username/C.git
    cd C
 
+Compile and run any program:
+
+gcc filename.c -o output
+./output   # Linux/Mac
+output.exe # Windows
 
 
 🤝 Contributing
@@ -47,11 +43,10 @@ Contributions are always welcome! 🎉
 
 📬 Connect with Me
 
-🌐 Portfolio: vishalupadhyay.in
-
-💼 LinkedIn: Array Blog
-
-📧 Email: vishalm.rsm@gmail.com
+🌐 Website: [Array Blog](https://arrayblog.com/)
+📺 YouTube: [Array Blog](https://www.youtube.com/channel/UCwRmBW45sVbb7QT_FV5ov9w)
+💼 LinkedIn: [Array Blog](https://www.linkedin.com/in/array-blog-000203377/)
+📧 Email: contact@arrayblog.com
 
 ⭐ Support
 
